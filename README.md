@@ -24,7 +24,7 @@ It looks like:
   ```
   and run App > Configuration Manager > Window Manager > choose 'metabox-theme' .
 * Or, make a package (see later) and untar it under ~/.themes/ .
-* Or, download a package metabox-theme.tgz from TBD and untar it under ~/.themes/ .
+* Or, download a package metabox-theme.tgz from https://www.pling.com/p/2320092 and untar it under ~/.themes/ .
 
 ## How To Build
 
