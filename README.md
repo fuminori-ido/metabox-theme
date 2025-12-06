@@ -6,8 +6,8 @@
 * makes icons and title bar bigger to fit 4k screen.
 * darkens inactive bottom bar.
 * the feature is:
-  * no left and right border of window
-  * resize can be done only at the both side of bottom bar.
+  * no top, left and right borders of window
+  * resize can be done only at the left, center, and right bars at bottom.
 
 It looks like:
 
